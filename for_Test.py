@@ -19,6 +19,6 @@ for i in range(1,10):
         if j == 9:
             print(Result01);
         else:
-            print(Result01, '', end='');    # 구구단에서 j가 9인 경우에 문단을 넘기고 9가 아닌 경우에 붙혀서 출력하기 위함
+            print(Result01, '', end='');    #end='' 는 줄바꿈 없이 이어쓰기
             
             
